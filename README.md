@@ -48,7 +48,7 @@ x-axis: Ages clustered into groups
 y-axis: Count, number of people
 
  
-Section 3 – Interpreting Visualizations (3 points)
+Section 3 – Interpreting Visualizations 
 [In your README file] For each visualization, • Great (1 point): Interpret a visualization and explain how it contributes to answering your question • Fair (0.5 points): Interpret a visualization but do not explain how it contributes to answering your question • No or non-subtantial submission 
 
 <img width="585" alt="Skärmavbild 2023-12-06 kl  17 24 57" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/5e27bee4-e177-4ecc-bc20-f69cb4bd616c">
@@ -57,23 +57,21 @@ Age group 21-30 represented most of the answers on the survey. However, for both
 
 <img width="699" alt="Skärmavbild 2023-12-06 kl  17 29 29" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/042eb4d4-d363-45ee-9ebe-0852b37e8ffa">
 
-Males had a more even spread on their social media screen time. Both female and males had majority over 3 hours of social media screen time but more frequent for females to spend more than 5 hours on social media. However, it is important to acknowledge that there were more females responding to the survey. 
+Males had a more even spread on their social media screen time. Both female and males had majority over 3 hours of social media screen time but it was more frequent for females to spend more than 5 hours. However, it is important to acknowledge that there were more females that responded to the survey. This shows how different genders vary in their social media screen time and phone usage. 
 
-- How different genders vary in their social media screen time and phone usage. 
-- How does your screen time change depending on relationship status?
-- How does your screen time change depending on occupation status?
+<img width="392" alt="Skärmavbild 2023-12-06 kl  17 29 15" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/25e6ffdb-f838-47be-9acd-d3d9e14b5370">
+ 
+For this visualization purple represents single, pink married, blue represents in a relationship. This visualization shows screen time compared to relationship status. The major takeaways from this graph would be how a majority of single people spend more than 5 hours a day. While less than an hour a day is mostly made up of married couples. While there was more responses of single people it is still possible to see what the majority of the married people answered which was between 1 to 2 hours. 
 
+<img width="707" alt="Skärmavbild 2023-12-06 kl  17 29 21" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/4470d5cd-1133-46c9-8aff-d953330b6361">
 
+For this visualization you can see the number of hours of screen time based on occupation status. Using the chart and comparing the responses of university students and salaried workers, you can see that university students are mostly more than 5 hours. But the salaried workers are looking at more to 1-2 hours a day. 
 
-
-Section 4 – Discussion & Summary (3 points) [In a README file] • Great (3 points) 
-
-• Find an article related to your questions and summarize the article 
-• Ask your questions to GPT-4 and write your query and GPT-4’s responses (You can use the API key for our course; Ask as many as possible for proper responses; Mention that the response is generated from GPT-4) 
-• Discuss whether your visualizations align well with the article and GPT-4’s response 
-• Fair (2 points): One bullet point for “Great” is not satisfactory • Sub-par (1 point): Two bullet points for “Great” are not satisfactory
-
-
-Screen time has surged across age groups due to the increasing reliance on phones, laptops, and TVs for work, learning, and entertainment. Children and teens exceed recommended limits, with Gen Z showing a 60-80% increase in phone usage. Millennials are frequent social media users, struggling to stay away from their phones. Gen Z, acknowledging their reliance on screens, favors user-created content on platforms like TikTok and YouTube, while gaming gains popularity for relaxation. Streaming services face challenges, but many subscribers who initially canceled return within a year, especially in Gen Z. Social media activities vary, with Gen Z and Millennials spending significant time on gaming. TikTok is the most downloaded app globally, followed by Instagram, Facebook, WhatsApp, and Telegram. Overall, increased screen time continues to impact various aspects of daily life and well-being.
+Section 4 – Discussion & Summary 
+This response is generated from GPT4:
+ Screen time has surged across age groups due to the increasing reliance on phones, laptops, and TVs for work, learning, and entertainment. Children and teens exceed recommended limits, with Gen Z showing a 60-80% increase in phone usage. Millennials are frequent social media users, struggling to stay away from their phones. Gen Z, acknowledging their reliance on screens, favors user-created content on platforms like TikTok and YouTube, while gaming gains popularity for relaxation. Streaming services face challenges, but many subscribers who initially canceled return within a year, especially in Gen Z. Social media activities vary, with Gen Z and Millennials spending significant time on gaming. TikTok is the most downloaded app globally, followed by Instagram, Facebook, WhatsApp, and Telegram. Overall, increased screen time continues to impact various aspects of daily life and well-being.
+ 
+Does this article relate to our visualizations:
+Our visualizations align well with the article and the response from GPT-4 beause we have also seen the increase in phone usage within Gen Z. We also noticed how Millennials have the same issue as Gen Z with not being able to put their phone down. Overall, the article had the same thoughts as us, since phone useage is increasing at an alarming rate among younger generations.
 
 You can access the article here: https://www.slicktext.com/blog/2023/01/30-key-screen-time-statistics-for-2022-2023/#:~:text=To%20break%20that%20down%20further,screen%20time%20of%207.5%20hours. 
