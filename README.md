@@ -45,12 +45,14 @@ y-axis: Count, number of people
 **Answered 5 on a 1-5 scale "How often do you feel depressed or down?"**
 x-axis: Ages clustered into groups
 y-axis: Count, number of people
+
 **Answered 5 on a 1-5 scale "How often do you face issues regarding sleep?"** 
 x-axis: Ages clustered into groups
 y-axis: Count, number of people
 
  
 Section 3 – Interpreting Visualizations 
+
 <img width="585" alt="Skärmavbild 2023-12-06 kl  17 24 57" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/5e27bee4-e177-4ecc-bc20-f69cb4bd616c">
 
 Age group 21-30 represented most of the answers on the survey. However, for both age group 10-20 and 21-30 the most ferquent answer was "more than 5 hours" for average time spent on social media. For the other age groups, 31-40, 41-50 and 50+, it was more common with less than 3 hours. This shows us how different age groups vary in their social media screen time and phone usage. 
