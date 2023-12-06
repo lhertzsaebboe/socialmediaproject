@@ -17,13 +17,10 @@ Link to visualization: https://public.tableau.com/views/SocialMediaandMentalHeal
  1. Companies need to understanding user behaviors on social media in order to, for example, help them target individualized ads or use marketing segmentation strategies. Entrepreneurially, this could be an opportunity for a new app or product that might mitigate screen time, encourage productivity, and enhance mental health in this age group.
  2. Identifying students that might be extra recourses. Universities can provide more resources to students, hiring a necessary amount of mental health professionals, and healthily navigating their online coursework.
   
- 
 ### Data Description 
 This dataset was originally collected for a data science and machine learning project aimed at investigating the potential correlation between the amount of time an individual spends on social media and its impact on their mental health. The data was gathered through a survey on a university campus. Therefore, it is important to keep in mind that the results and findings might be biased due to the demographics of the specific campus. Since the data was collected by a Univesity, the major age group in the dataset is 18-25 year old which is possible to see in the visualizations above. 
-We imported the original dataset "smmh.csv" into pyhton and preprocessed the data. We created two different dataframes "larger_df" and "social_media_counts_df.csv" that we imported into Tableau in order to create our visualizations. 
 
-
-Instructions about how to access and download your data correctly 
+Instructions about how to access and download your data correctly
 
 The data types and descriptions of the columns used in visualizations are clearly explained 
 **Variance in screentime between genders.**
