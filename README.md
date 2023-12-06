@@ -15,6 +15,4 @@ Link to visualization: https://public.tableau.com/views/SocialMediaandMentalHeal
  1. Companies need to understanding user behaviors on social media in order to, for example, help them target individualized ads or use marketing segmentation strategies. Entrepreneurially, this could be an opportunity for a new app or product that might mitigate screen time, encourage productivity, and enhance mental health in this age group.
  2. Identifying students that might be extra recourses. Universities can provide more resources to students, hiring a necessary amount of mental health professionals, and healthily navigating their online coursework.
   
-  
-  [Elon University](https://elon.edu)
-
+ 
