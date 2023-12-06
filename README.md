@@ -1,5 +1,5 @@
 # MGT4250 Fall 2023 Course Project
-Author: Jackson Leavitt & Linn Hertz Saebboe, jleavitt@elon.edu & lhertzsaebboe@elon.edu
+Authors: Jackson Leavitt & Linn Hertz Saebboe, jleavitt@elon.edu & lhertzsaebboe@elon.edu
 
 This is a class project for MGT 4250, Fall 2023, at Elon University. We have chosen to examine various user behaviors and explore how screen time differs among different groups. The questions we decided to focus on were:
 
