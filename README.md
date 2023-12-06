@@ -39,9 +39,32 @@ Colored by: Relationship Status
 **How does your screen time change depending on occupation status?**
 x-axis: Average screen time & Occupation Status
 y-axis: Count, number of people
+
+**Answered 5 on a 1-5 scale "How often do you feel depressed or down?"**
+x-axis: Ages clustered into groups
+y-axis: Count, number of people
+**Answered 5 on a 1-5 scale "How often do you face issues regarding sleep?"** 
+x-axis: Ages clustered into groups
+y-axis: Count, number of people
+
  
 Section 3 – Interpreting Visualizations (3 points)
 [In your README file] For each visualization, • Great (1 point): Interpret a visualization and explain how it contributes to answering your question • Fair (0.5 points): Interpret a visualization but do not explain how it contributes to answering your question • No or non-subtantial submission 
+
+<img width="585" alt="Skärmavbild 2023-12-06 kl  17 24 57" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/5e27bee4-e177-4ecc-bc20-f69cb4bd616c">
+
+Age group 21-30 represented most of the answers on the survey. However, for both age group 10-20 and 21-30 the most ferquent answer was "more than 5 hours" for average time spent on social media. For the other age groups, 31-40, 41-50 and 50+, it was more common with less than 3 hours. This shows us how different age groups vary in their social media screen time and phone usage. 
+
+<img width="699" alt="Skärmavbild 2023-12-06 kl  17 29 29" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/042eb4d4-d363-45ee-9ebe-0852b37e8ffa">
+
+Males had a more even spread on their social media screen time. Both female and males had majority over 3 hours of social media screen time but more frequent for females to spend more than 5 hours on social media. However, it is important to acknowledge that there were more females responding to the survey. 
+
+- How different genders vary in their social media screen time and phone usage. 
+- How does your screen time change depending on relationship status?
+- How does your screen time change depending on occupation status?
+
+
+
 
 Section 4 – Discussion & Summary (3 points) [In a README file] • Great (3 points) 
 
