@@ -49,7 +49,6 @@ y-axis: Count, number of people
 
  
 Section 3 – Interpreting Visualizations 
-[In your README file] For each visualization, • Great (1 point): Interpret a visualization and explain how it contributes to answering your question • Fair (0.5 points): Interpret a visualization but do not explain how it contributes to answering your question • No or non-subtantial submission 
 
 <img width="585" alt="Skärmavbild 2023-12-06 kl  17 24 57" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/5e27bee4-e177-4ecc-bc20-f69cb4bd616c">
 
@@ -66,6 +65,11 @@ For this visualization purple represents single, pink married, blue represents i
 <img width="707" alt="Skärmavbild 2023-12-06 kl  17 29 21" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/4470d5cd-1133-46c9-8aff-d953330b6361">
 
 For this visualization you can see the number of hours of screen time based on occupation status. Using the chart and comparing the responses of university students and salaried workers, you can see that university students are mostly more than 5 hours. But the salaried workers are looking at more to 1-2 hours a day. 
+
+<img width="888" alt="Skärmavbild 2023-12-06 kl  17 29 47" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/f850e7d2-ae7f-47ec-a8b8-2b7021b800fb">
+
+We decided to add in the mental health 
+
 
 Section 4 – Discussion & Summary 
 This response is generated from GPT4:
