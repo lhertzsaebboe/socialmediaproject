@@ -49,7 +49,6 @@ y-axis: Count, number of people
 
  
 Section 3 – Interpreting Visualizations 
-
 <img width="585" alt="Skärmavbild 2023-12-06 kl  17 24 57" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/5e27bee4-e177-4ecc-bc20-f69cb4bd616c">
 
 Age group 21-30 represented most of the answers on the survey. However, for both age group 10-20 and 21-30 the most ferquent answer was "more than 5 hours" for average time spent on social media. For the other age groups, 31-40, 41-50 and 50+, it was more common with less than 3 hours. This shows us how different age groups vary in their social media screen time and phone usage. 
@@ -68,7 +67,7 @@ For this visualization you can see the number of hours of screen time based on o
 
 <img width="888" alt="Skärmavbild 2023-12-06 kl  17 29 47" src="https://github.com/lhertzsaebboe/socialmediaproject/assets/152214822/f850e7d2-ae7f-47ec-a8b8-2b7021b800fb">
 
-We decided to add in the mental health 
+We decided to add in the mental health data too. However, it is important to note that there is no certain causation but the age group with the most social media screen time also have the most issues with their mental health and sleep issues.
 
 
 Section 4 – Discussion & Summary 
