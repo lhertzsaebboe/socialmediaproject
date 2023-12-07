@@ -23,7 +23,7 @@ Link to visualization: https://public.tableau.com/views/SocialMediaandMentalHeal
 This dataset was originally collected for a data science and machine learning project aimed at investigating the potential correlation between the amount of time an individual spends on social media and its impact on their mental health. The data was gathered through a survey on a university campus. Therefore, it is important to keep in mind that the results and findings might be biased due to the demographics of the specific campus. Since the data was collected by a Univesity, the major age group in the dataset is 18-25 year old which is possible to see in the visualizations above. 
 
 ### Data Access
-You can access the dataset by pressing the smmh.csv attached to the main. Then crtl+shift+s or press the three dots on top and choose download. Another way is to access it through kaggle following this link: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health 
+You can access the dataset by pressing the smmh.csv attached to the main. Then crtl+shift+s or press the three dots on top and choose download. Another way is to access it through kaggle by pressing this link: https://www.kaggle.com/datasets/souvikahmed071/social-media-and-mental-health 
 
 The data types and descriptions of the columns used in visualizations are clearly explained 
 **Variance in screentime between genders.**
